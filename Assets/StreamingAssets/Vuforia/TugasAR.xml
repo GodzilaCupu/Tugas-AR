@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Kelompok3" size="10.000000 7.046980" />
+    <ImageTarget name="Tugas3" size="10.000000 13.974122" />
+    <ImageTarget name="Wuhan" size="5.000000 2.967162" />
+    <ImageTarget name="Police" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>
